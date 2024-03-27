@@ -1,6 +1,6 @@
 # Synthetic_opioids
 
-In March 2024, we looked at the UK government's response to the spread of new super-strength drugs.
+In March 2024, [we reported](https://www.bbc.co.uk/news/uk-68479491) on the UK government's response to the spread of new super-strength drugs.
 
 We found more than 100 deaths had been linked to synthetic opioids called nitazenes betwwen June 2023 and February 2024, through data obtained from the National Crime Agency.
 
