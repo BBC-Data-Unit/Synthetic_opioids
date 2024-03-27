@@ -8,7 +8,11 @@ Dr Mark Pucci, a doctor who had treated a number of patients who had taken the d
 
 In the week of publication, the UK government made 15 synthetic opioids Class A drugs.
 
-## Backgound
+Our story on the BBC website featured interviews with a former drug user and a current drug user who had overdosed on nitazenes.
+
+![nitazene getty](https://github.com/BBC-Data-Unit/Synthetic_opioids/assets/61186777/01ad7642-2fc2-4b2b-97dc-dab38f1e09ce)
+
+## Background
 
 The National Crime Agency (NCA) believes nitazenes are produced in illicit labs in China and are entering the UK through the Royal Mail and other parcel operators.
 
