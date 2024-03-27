@@ -71,6 +71,11 @@ Thirty regional radio stations also used the story pack, including:
 * Bristol
 * Wiltshire
 
+And a number of local news outlets also used the data, including.
+
+* More Radio: [Concern over new drug linked to 100 deaths since summer], (https://www.moreradio.online/news/sussex-news/concern-over-new-drug-linked-to-over-100-deaths-since-last-summer/) 20 March 2024.  
+
+* On the Wight: [Government criticised for slow response to super-strength drugs](https://onthewight.com/uk-government-criticised-for-slow-response-to-emerging-super-strength-drugs/) 20 March 2024.
 
 
 
