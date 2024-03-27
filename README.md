@@ -30,7 +30,7 @@ Critics, however, say the authorities have not acted fast enough to track non-fa
 
 ## What we shared
 
-We shared a story pack, complete with a detailed background, methodology and expert comment.
+We shared a [story pack](https://docs.google.com/document/d/1gvaKS175L6Q3-W4dFw_l2sHuSoozNO2IXWtZ7muuO_s/edit?usp=sharing), complete with a detailed background, methodology and expert comment.
 
 Interviews in the pack included: 
 
@@ -42,7 +42,7 @@ Interviews in the pack included:
 
 ## Get the data
 
-In our accompanying Google Sheet, we shared the following data broken by region:
+In our accompanying [Google Sheet](https://docs.google.com/spreadsheets/d/1ZbdoaRt--mqC4XWWI00LvpcvnJPz87LfSgDPe6RkUQk/edit?usp=sharing_) we shared the following data broken by region:
 
 * The most recently-updated figures for deaths linked to nitazenes from 1 June 2023-22 February 2024 through post-mortem toxicology results, according to the National Crime Agency (NCA)
 * Deaths linked to nitazenes from 1 June 2023-31 December 2023 through post-mortem toxicology results, according to the National Crime Agency(NCA)
@@ -71,11 +71,8 @@ Thirty regional radio stations also used the story pack, including:
 * Bristol
 * Wiltshire
 
-And a number of local news outlets also used the data, including.
+Local news outlets also used the data, including.
 
-* More Radio: [Concern over new drug linked to 100 deaths since summer], (https://www.moreradio.online/news/sussex-news/concern-over-new-drug-linked-to-over-100-deaths-since-last-summer/) 20 March 2024.  
+* More Radio: [Concern over new drug linked to 100 deaths since summer](https://www.moreradio.online/news/sussex-news/concern-over-new-drug-linked-to-over-100-deaths-since-last-summer/) 20 March 2024.  
 
 * On the Wight: [Government criticised for slow response to super-strength drugs](https://onthewight.com/uk-government-criticised-for-slow-response-to-emerging-super-strength-drugs/) 20 March 2024.
-
-
-
