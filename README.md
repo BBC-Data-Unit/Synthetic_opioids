@@ -47,9 +47,9 @@ Interviews in the pack included:
 In our accompanying [Google Sheet](https://docs.google.com/spreadsheets/d/1ZbdoaRt--mqC4XWWI00LvpcvnJPz87LfSgDPe6RkUQk/edit?usp=sharing_) we shared the following data broken by region:
 
 * The most recently-updated figures for deaths linked to nitazenes from 1 June 2023-22 February 2024 through post-mortem toxicology results, according to the National Crime Agency (NCA)
-* Deaths linked to nitazenes from 1 June 2023-31 December 2023 through post-mortem toxicology results, according to the National Crime Agency(NCA)
-* Non-fatal overdoses associated with confirmed nitazenes from 1 June 2023-31 December 2023 as recorded by the Office for Health Improvement and Disparities(OHID)
-* All suspected opioid non-fatal overdoses tracked from 1 June 2023-31 December 2023 as recorded by the Office for Health Improvement and Disparities(OHID)
+* Deaths linked to nitazenes from 1 June 2023-31 December 2023 through post-mortem toxicology results, according to the National Crime Agency (NCA)
+* Non-fatal overdoses associated with confirmed nitazenes from 1 June 2023-31 December 2023 as recorded by the Office for Health Improvement and Disparities (OHID)
+* All suspected opioid non-fatal overdoses tracked from 1 June 2023-31 December 2023 as recorded by the Office for Health Improvement and Disparities (OHID)
 
 The data from OHID was obtained by the BBC Shared Data Unit after requesting an internal review of an FOI response that was initially a refusal.
 
@@ -73,7 +73,7 @@ Thirty regional radio stations also used the story pack, including:
 * Bristol
 * Wiltshire
 
-Local news outlets also used the data, including:
+The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by regional partners based on this research included:
 
 * Birmingham Mail: [Action demand as drugs 100 times stronger than heroin ravage Birmingham](https://www.birminghammail.co.uk/news/midlands-news/action-demand-drugs-100-times-28851886) 20 March 2024. 
 * More Radio: [Concern over new drug linked to 100 deaths since summer](https://www.moreradio.online/news/sussex-news/concern-over-new-drug-linked-to-over-100-deaths-since-last-summer/) 20 March 2024.  
@@ -84,7 +84,7 @@ Local news outlets also used the data, including:
 * The Llanelli Standard: [Rising Synthetic Opioids Abuse Causes Deaths](https://llanellistandard.com/rising-synthetic-opioids-abuse-causes-deaths/) 26 March 2024.
 * Chiswick W4.com: [New Figures Show Six Deaths in London Linked to Synthetic Opiods](https://www.chiswickw4.com/default.asp?section=info&page=concrime1183.htm) 7 April 2024.
 
-Other national usage: 
+## Other national usage: 
 
 * The Sun: [DEADLY DUST ‘Summer of death’ fears over drug that can kill with ‘grain of sand-sized’ hit… as LACK of heroin on UK streets blamed](https://www.thesun.co.uk/news/26808544/nitazenes-synthetic-drug-death-fear/) 20 March 2024.
 * The Sun: ['MAJOR THREAT' Chilling warning of ‘mass deaths’ in UK from ‘Frankenstein’ drug users ‘are unaware they’re even taking’](https://www.thesun.co.uk/health/27099033/drug-mass-deaths-frankenstein-nitazenes-uk/) 3 April 2024.
