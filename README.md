@@ -2,7 +2,7 @@
 
 In March 2024, [we reported](https://www.bbc.co.uk/news/uk-68479491) criticism the UK government was behind the curve in tracking the spread of new super-strength drugs.
 
-We found more than 100 deaths had been linked to synthetic opioids called nitazenes betwwen June 2023 and February 2024, through data obtained from the National Crime Agency.
+We found more than 100 deaths had been linked to synthetic opioids called nitazenes between June 2023 and February 2024, through data obtained from the National Crime Agency.
 
 Dr Mark Pucci, a doctor who had treated a number of patients who had taken the drugs, said flawed data collection methods meant the numbers were likely to be a significant underestimate.
 
@@ -55,7 +55,7 @@ The data from OHID was obtained by the BBC Shared Data Unit after requesting an 
 
 ## Partner usage
 
-The story was used widely across the BBC, featuring as lead stories on both BBC Breakfast and Radio 4's Today programme. A television package also featured on the One o'Clock, Six o'Clock and 10 o'Clock News. 
+The story was used widely across the BBC, featuring as lead stories on both BBC Breakfast and Radio 4's Today programme. A television package also featured on the One o'Clock, Six o'Clock and 10 o'Clock News and one of our interviews was viewed more than 1.8m times on the [@bbcnews TikTok account](https://www.tiktok.com/@bbcnews/video/7348469744808316193?is_from_webapp=1&sender_device=pc&web_id=7355885315141191200)
 
 Four regional television outlets used the information including: 
 
@@ -75,6 +75,17 @@ Thirty regional radio stations also used the story pack, including:
 
 Local news outlets also used the data, including:
 
+* Birmingham Mail: [Action demand as drugs 100 times stronger than heroin ravage Birmingham](https://www.birminghammail.co.uk/news/midlands-news/action-demand-drugs-100-times-28851886) 20 March 2024. 
 * More Radio: [Concern over new drug linked to 100 deaths since summer](https://www.moreradio.online/news/sussex-news/concern-over-new-drug-linked-to-over-100-deaths-since-last-summer/) 20 March 2024.  
-
 * On the Wight: [Government criticised for slow response to super-strength drugs](https://onthewight.com/uk-government-criticised-for-slow-response-to-emerging-super-strength-drugs/) 20 March 2024.
+
+Other national usage: 
+* The Sun: [DEADLY DUST ‘Summer of death’ fears over drug that can kill with ‘grain of sand-sized’ hit… as LACK of heroin on UK streets blamed](https://www.thesun.co.uk/news/26808544/nitazenes-synthetic-drug-death-fear/) 20 March 2024.
+* Daily Mail: [Doctor warns numbers of UK deaths linked to Chinese-made 'nitazenes' are 'the tip of the iceberg' as 14 types of the 'Frankenstein' opioid are made Class A drugs](https://www.dailymail.co.uk/news/article-13218779/doctor-warns-uk-deaths-linked-nitazene-opioids.html) 20 March 2024.
+* Daily Mail: [The 'Franken-drug' that is flooding Britain and killing people in their droves. It's 300 times stronger than heroin and 20 times as potent as fentanyl - here's why experts are worried](https://www.dailymail.co.uk/news/article-13223551/The-Chinese-Franken-drug-death-wave-sweeping-Britain-300-times-stronger-heroin-20-times-stronger-fentanyl-flooding-UK-killing-people-droves.html) 21 March 2024.
+* The Daily Telegraph (comment): [Britain’s nihilistic new drugs culture reflects the state we’re in](https://www.telegraph.co.uk/news/2024/03/21/drugs-fentanyl-class-a-britain-new-drugs-culture/)  20 March 2024.
+* The Evening Standard (London) [What are nitazenes? UK government is behind the curve in tracking new lethal drugs](https://www.standard.co.uk/news/uk/what-are-nitazenes-opioids-fentanyl-dangers-b1111501.html) 20 March 2024.
+* Daily Star: [Fresh epidemic fears of 'zombies' overrunning UK towns in impending 'summer of death'](https://www.dailystar.co.uk/news/latest-news/fresh-epidemic-fears-zombies-overrunning-32406095) 21 March 2024.
+* Scottish Daily Express: ['Needless deaths' in crisis over drug use] 21 March 2024.
+* This is Money: [Doctor warns numbers of UK deaths linked to Chinese-made 'nitazenes' are 'the tip of the iceberg' as 14 types of the 'Frankenstein' opioid are made Class A drugs](https://www.thisismoney.co.uk/news/article-13218779/doctor-warns-uk-deaths-linked-nitazene-opioids.html) 20 March 2024.
+* This is Money: [The 'Franken-drug' that is flooding Britain and killing people in their droves. It's 300 times stronger than heroin and 20 times as potent as fentanyl - here's why experts are worried](https://www.thisismoney.co.uk/news/article-13223551/The-Chinese-Franken-drug-death-wave-sweeping-Britain-300-times-stronger-heroin-20-times-stronger-fentanyl-flooding-UK-killing-people-droves.html) 21 March 2024.
