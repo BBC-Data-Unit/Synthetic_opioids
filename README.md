@@ -8,7 +8,7 @@ Dr Mark Pucci, a doctor who had treated a number of patients who had taken the d
 
 In the week of publication, the UK government made 15 synthetic opioids Class A drugs.
 
-Our story on the BBC website featured interviews with two people recovering from heroin addictions who had overdosed after unwittingly taking nitazenes.
+Our story on the BBC website featured interviews with two people recovering from heroin addictions who had overdosed when they took nitazenes unwittingly.
 
 ![nitazene getty](https://github.com/BBC-Data-Unit/Synthetic_opioids/assets/61186777/01ad7642-2fc2-4b2b-97dc-dab38f1e09ce)
 
