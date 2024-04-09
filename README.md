@@ -1,6 +1,6 @@
 # Synthetic_opioids
 
-In March 2024, [we reported](https://www.bbc.co.uk/news/uk-68479491) on the UK government's response to the spread of new super-strength drugs.
+In March 2024, [we reported](https://www.bbc.co.uk/news/uk-68479491) criticism the UK government was behind the curve in tracking the spread of new super-strength drugs.
 
 We found more than 100 deaths had been linked to synthetic opioids called nitazenes betwwen June 2023 and February 2024, through data obtained from the National Crime Agency.
 
@@ -8,25 +8,25 @@ Dr Mark Pucci, a doctor who had treated a number of patients who had taken the d
 
 In the week of publication, the UK government made 15 synthetic opioids Class A drugs.
 
-Our story on the BBC website featured interviews with a former drug user and a current drug user who had overdosed on nitazenes.
+Our story on the BBC website featured interviews with two people recovering from heroin addictions who had overdosed after unwittingly taking nitazenes.
 
 ![nitazene getty](https://github.com/BBC-Data-Unit/Synthetic_opioids/assets/61186777/01ad7642-2fc2-4b2b-97dc-dab38f1e09ce)
 
 ## Background
 
-The National Crime Agency (NCA) believes nitazenes are produced in illicit labs in China and are entering the UK through the Royal Mail and other parcel operators.
+The National Crime Agency (NCA) believed nitazenes were being produced in illicit labs in China and were entering the UK through the Royal Mail and other parcel operators.
 
-In most cases, they are then cut and mixed with heroin by organised gangs, strengthening the drugs being sold on the street.
+It said in most cases, they were then cut and mixed with heroin by organised gangs, strengthening the drugs being sold on the street.
 
-They have also been found in samples of illegal diazepam tablets, most likely bought online.
+They had also been found in samples of illegal diazepam tablets, most likely bought online.
 
-Diazepam - also known by one of its brand names, Valium - is a class-C drug in the UK,  commonly used to treat anxiety, muscle spasms and seizures. It is illegal to possess without a prescription.
+Diazepam - also known by one of its brand names, Valium - was a class-C drug in the UK,  commonly used to treat anxiety, muscle spasms and seizures. It was illegal to possess without a prescription.
 
 The Department of Health and Social Care (DHSC) told the BBC it was concerned about nitazenes in "fake medicines". 
 
-Alongside law enforcement agencies, DHSC has joined a cross-government taskforce to lead the response.
+Alongside law enforcement agencies, DHSC had joined a cross-government taskforce to lead the response.
 
-Critics, however, say the authorities have not acted fast enough to track non-fatal overdoses involving nitazenes.
+Critics, however, said the authorities had not acted fast enough to track non-fatal overdoses involving nitazenes.
 
 ## What we shared
 
@@ -34,11 +34,13 @@ We shared a [story pack](https://docs.google.com/document/d/1gvaKS175L6Q3-W4dFw_
 
 Interviews in the pack included: 
 
-* Dr Mark Pucci - a consultant in clinical toxicology in Birmingham and Sandwell.
-* Dr Judith Yates - a GP from Birmingham who collates data about drug deaths in the city, where several deaths linked to nitazenes took place in 2023.
-* Vicki Markiewicz - executive director for the charity Change Grow Live
-
-  The pack also included a right of response from the Department for Health and Social Care.
+* Dr Mark Pucci (he/him), a consultant in clinical toxicology in Birmingham and Sandwell, who treated the first person in the UK found to have taken a nitazene in July 2021, was a consultant for the National Poisons Information Service (NPIS) and observed 13 patients who overdosed and survived between July and October 2023 among 19 who tested positive for the new drugs in blood and urine tests.
+* Dr Judith Yates (she/her), a GP from Birmingham who collated data about drug deaths in the city, where several deaths linked to nitazenes took place in 2023.
+* Charles Yates (he/him), deputy director of the National Crime Agency (NCA). 
+* Vicki Markiewicz (she/her), one of four Executive Directors responsible for service delivery at the charity Change Grow Live, which specialised in substance misuse and criminal justice intervention projects in England and Wales.
+* Charlie Mack (he/him) , chief executive of the charity Cranstoun, which provided services for adults and young people facing difficulties with alcohol and other drugs, domestic abuse, housing and criminal justice.
+* The European Monitoring Centre for Drugs and Drug Addiction
+* The Department of Health and Social Care (DHSC).
 
 ## Get the data
 
@@ -53,7 +55,7 @@ The data from OHID was obtained by the BBC Shared Data Unit after requesting an 
 
 ## Partner usage
 
-The story was used widely across the BBC, featuring as lead stories on both BBC Breakfast and Radio Four's Today. A television package also featured on the One o'Clock, Six o'Clock and 10 o'Clock News. 
+The story was used widely across the BBC, featuring as lead stories on both BBC Breakfast and Radio 4's Today programme. A television package also featured on the One o'Clock, Six o'Clock and 10 o'Clock News. 
 
 Four regional television outlets used the information including: 
 
@@ -71,7 +73,7 @@ Thirty regional radio stations also used the story pack, including:
 * Bristol
 * Wiltshire
 
-Local news outlets also used the data, including.
+Local news outlets also used the data, including:
 
 * More Radio: [Concern over new drug linked to 100 deaths since summer](https://www.moreradio.online/news/sussex-news/concern-over-new-drug-linked-to-over-100-deaths-since-last-summer/) 20 March 2024.  
 
