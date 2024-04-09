@@ -1,4 +1,4 @@
-# Synthetic_opioids
+# UK too slow to act on lethal drug threat - doctors
 
 In March 2024, [we reported](https://www.bbc.co.uk/news/uk-68479491) criticism the UK government was behind the curve in tracking the spread of new super-strength drugs.
 
