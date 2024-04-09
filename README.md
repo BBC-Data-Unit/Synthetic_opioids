@@ -87,6 +87,7 @@ Local news outlets also used the data, including:
 Other national usage: 
 
 * The Sun: [DEADLY DUST ‘Summer of death’ fears over drug that can kill with ‘grain of sand-sized’ hit… as LACK of heroin on UK streets blamed](https://www.thesun.co.uk/news/26808544/nitazenes-synthetic-drug-death-fear/) 20 March 2024.
+* The Sun: ['MAJOR THREAT' Chilling warning of ‘mass deaths’ in UK from ‘Frankenstein’ drug users ‘are unaware they’re even taking’](https://www.thesun.co.uk/health/27099033/drug-mass-deaths-frankenstein-nitazenes-uk/) 3 April 2024.
 * Forbes: [U.K. Bans Synthetic Opioids ‘500 Times More Powerful Than Morphine’](https://www.forbes.com/sites/katherinehignett/2024/03/20/uk-bans-synthetic-opioids-500-times-more-powerful-than-morphine/) 20 March 2024.
 * The Observer: [UK ministers knew of ‘significant’ synthetic opioids threat two years ago](https://www.theguardian.com/politics/2024/mar/24/uk-ministers-knew-of-significant-synthetic-opioids-threat-two-years-ago) 24 March 2024.
 * Daily Mail: [Doctor warns numbers of UK deaths linked to Chinese-made 'nitazenes' are 'the tip of the iceberg' as 14 types of the 'Frankenstein' opioid are made Class A drugs](https://www.dailymail.co.uk/news/article-13218779/doctor-warns-uk-deaths-linked-nitazene-opioids.html) 20 March 2024.
