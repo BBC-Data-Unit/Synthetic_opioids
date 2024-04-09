@@ -78,9 +78,17 @@ Local news outlets also used the data, including:
 * Birmingham Mail: [Action demand as drugs 100 times stronger than heroin ravage Birmingham](https://www.birminghammail.co.uk/news/midlands-news/action-demand-drugs-100-times-28851886) 20 March 2024. 
 * More Radio: [Concern over new drug linked to 100 deaths since summer](https://www.moreradio.online/news/sussex-news/concern-over-new-drug-linked-to-over-100-deaths-since-last-summer/) 20 March 2024.  
 * On the Wight: [Government criticised for slow response to super-strength drugs](https://onthewight.com/uk-government-criticised-for-slow-response-to-emerging-super-strength-drugs/) 20 March 2024.
+* STV News (Scotland): [New synthetic drugs up to 500 times stronger than heroin banned as deaths soar](https://news.stv.tv/scotland/new-synthetic-drugs-up-to-500-times-stronger-than-heroin-banned-as-deaths-soar-across-uk) 20 March 2024.
+* Quest Media Network - Tameside Radio, Tameside Reporter, Oldham Reporter, Glossop Chronicle: [Stark warning over spread of synthetic drugs 20x stronger than heroin](https://www.questmedianetwork.co.uk/news/tameside-reporter/stark-warning-over-spread-of-synthetic-drugs-20x-stronger-than-heroin/) 22 March 2024.
+* West Wales Chronicle: [RISING SYNTHETIC OPIOIDS ABUSE CAUSES DEATHS](https://www.westwaleschronicle.co.uk/blog/2024/03/26/rising-synthetic-opioids-abuse-causes-deaths/) 26 March 2024.
+* The Llanelli Standard: [Rising Synthetic Opioids Abuse Causes Deaths](https://llanellistandard.com/rising-synthetic-opioids-abuse-causes-deaths/) 26 March 2024.
+* Chiswick W4.com: [New Figures Show Six Deaths in London Linked to Synthetic Opiods](https://www.chiswickw4.com/default.asp?section=info&page=concrime1183.htm) 7 April 2024.
 
 Other national usage: 
+
 * The Sun: [DEADLY DUST ‘Summer of death’ fears over drug that can kill with ‘grain of sand-sized’ hit… as LACK of heroin on UK streets blamed](https://www.thesun.co.uk/news/26808544/nitazenes-synthetic-drug-death-fear/) 20 March 2024.
+* Forbes: [U.K. Bans Synthetic Opioids ‘500 Times More Powerful Than Morphine’](https://www.forbes.com/sites/katherinehignett/2024/03/20/uk-bans-synthetic-opioids-500-times-more-powerful-than-morphine/) 20 March 2024.
+* The Observer: [UK ministers knew of ‘significant’ synthetic opioids threat two years ago](https://www.theguardian.com/politics/2024/mar/24/uk-ministers-knew-of-significant-synthetic-opioids-threat-two-years-ago) 24 March 2024.
 * Daily Mail: [Doctor warns numbers of UK deaths linked to Chinese-made 'nitazenes' are 'the tip of the iceberg' as 14 types of the 'Frankenstein' opioid are made Class A drugs](https://www.dailymail.co.uk/news/article-13218779/doctor-warns-uk-deaths-linked-nitazene-opioids.html) 20 March 2024.
 * Daily Mail: [The 'Franken-drug' that is flooding Britain and killing people in their droves. It's 300 times stronger than heroin and 20 times as potent as fentanyl - here's why experts are worried](https://www.dailymail.co.uk/news/article-13223551/The-Chinese-Franken-drug-death-wave-sweeping-Britain-300-times-stronger-heroin-20-times-stronger-fentanyl-flooding-UK-killing-people-droves.html) 21 March 2024.
 * The Daily Telegraph (comment): [Britain’s nihilistic new drugs culture reflects the state we’re in](https://www.telegraph.co.uk/news/2024/03/21/drugs-fentanyl-class-a-britain-new-drugs-culture/)  20 March 2024.
