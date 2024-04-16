@@ -55,7 +55,7 @@ The data from OHID was obtained by the BBC Shared Data Unit after requesting an 
 
 ## Partner usage
 
-The story was used widely across the BBC, featuring as lead stories on both BBC Breakfast and Radio 4's Today programme. A television package also featured on the One o'Clock, Six o'Clock and 10 o'Clock News and one of our interviews was viewed more than 1.8m times on the [@bbcnews TikTok account](https://www.tiktok.com/@bbcnews/video/7348469744808316193?is_from_webapp=1&sender_device=pc&web_id=7355885315141191200)
+The story was used widely across the BBC, including as lead stories for both BBC Breakfast and Radio 4's Today programme. A television package was featured on BBC News at One and BBC News at Six and our report was viewed more than 1.8m times on the [@bbcnews TikTok account](https://www.tiktok.com/@bbcnews/video/7348469744808316193?is_from_webapp=1&sender_device=pc&web_id=7355885315141191200)
 
 Four regional television outlets used the information including: 
 
