@@ -57,7 +57,7 @@ The data from OHID was obtained by the BBC Shared Data Unit after requesting an 
 
 The story was used widely across the BBC, including as lead stories for both BBC Breakfast and Radio 4's Today programme. A television package was featured on BBC News at One and BBC News at Six and our report was viewed more than 2.6m times on the [@bbcnews TikTok account](https://www.tiktok.com/@bbcnews/video/7348469744808316193?is_from_webapp=1&sender_device=pc&web_id=7355885315141191200)
 
-![TikTok.PNG]()
+![TikTok.PNG](https://github.com/BBC-Data-Unit/Synthetic_opioids/blob/main/TikTok.PNG)
 
 Four regional television outlets used the information including: 
 
